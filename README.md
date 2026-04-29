@@ -1,113 +1,172 @@
-<h1 align="center">Rishi 👋</h1>
+<h1 align="center">Rohit Negi 👋</h1>
 <h3 align="center">Founder @ Nuvorn Technologies | Full Stack PERN Developer</h3>
 
 ---
 
-# 💫 About Me:
-- ⚓ Ex-Merchant Navy → turned Software Developer  
-- 🧠 Self-taught in **PERN Stack, JavaScript & Python (DSA)**  
-- 🏗️ Building **production-grade systems**, not tutorial projects  
-- 🚀 Founder of **Nuvorn Technologies**  
-- 🎯 Focus: **SaaS, ERP Systems, Business Automation**
+## 💫 About Me
+
+- Ex-Merchant Navy → transitioned into Software Development  
+- Self-taught in **PERN Stack, JavaScript & Python (DSA)**  
+- Focused on building **production-grade systems** and business software  
+- Founder of **Nuvorn Technologies**  
+- Interested in **SaaS, ERP Systems, Automation & Scalable Architectures**
 
 ---
 
-# 🏢 Nuvorn Technologies
+## 🏢 Nuvorn Technologies
 
-### 🚀 Flagship Product: **Nuvorn Axis (ERP Suite)**
+### 🚀 Nuvorn Axis — Modular ERP Suite
 
-A modular ERP system built for real-world deployment:
+A production-grade ERP system designed for real-world business operations.
 
-- 📦 Procurement  
-- 📊 Inventory Management  
-- 👨‍💼 HR & Payroll  
-- 💰 Finance & Accounting  
-- 📁 Project Management  
-- 📈 Sales / CRM  
+| Module | Description |
+|------|------------|
+| Procurement | Vendor management, purchase orders, approval flows |
+| Inventory | Stock tracking, warehouse logic, movement logs |
+| HR & Payroll | Employee lifecycle, salary processing, compliance |
+| Finance & Accounting | Ledgers, transactions, reporting |
+| Project Management | Task tracking, assignments, progress workflows |
+| Sales / CRM | Lead tracking, conversions, customer lifecycle |
 
-> ⚙️ Deployed on AWS | Built using PERN Stack | Modular Architecture
+### ⚙️ Core System Features
+
+- RBAC + ABAC based access control  
+- JWT-based secure authentication  
+- Workflow Designer (React Flow) for **custom approval pipelines**  
+- Analytics dashboards using Chart.js  
+- Modular architecture (feature-based scaling)  
+- AWS EC2 deployment + Redis caching  
 
 ---
 
-# 🧩 Featured Projects
+## 🧩 Products & Projects
 
-### 🏆 Tournament Manager Web App
-- End-to-end esports system  
-- Registration, payments, bracket automation  
+### 🏆 Tournament Manager Platform
+
+**Full-stack tournament management system**
+
+**Client Side**
+- View tournaments, teams, players, prize pools, schedules  
+- Live standings and bracket visualization  
+- Registration system with payment integration  
+
+**Admin Side**
+- Configure tournament formats (single/double elimination, etc.)  
+- Manage teams, players, and registrations (CRM-style panel)  
+- Automated bracket generation & match control  
 
 ---
 
 ### 🍽️ Nuvorn Dine
-- Restaurant booking system  
-- Reserve **exact seats + capacity-based layouts**
+
+**Restaurant reservation system with seat-level control**
+
+- Interactive seat map for each restaurant  
+- Users can book **exact table/seat positions**  
+- Built-in discount system for customer acquisition  
+- Helps restaurants optimize occupancy and conversions  
 
 ---
 
 ### 🧾 Nuvorn Serve (POS System)
-- Lightweight POS for restaurants/businesses  
-- Fast billing + simple UI + scalable backend  
+
+**Complete POS ecosystem for businesses**
+
+- QR-based menu system  
+- Kitchen dashboard (order flow management)  
+- Billing & cashier interface  
+- Merchant admin panel  
+- User-facing ordering interface  
 
 ---
 
-### 🌐 Client SPA Websites (x2)
-- Built using **React + Tailwind CSS**
-- Modern UI/UX + performance optimized  
+### 🌐 Production Websites (SPA)
+
+| Project | Description |
+|--------|------------|
+| [VR Power Equipments](https://vrpower.in/) | Telecom infrastructure company website |
+| [Sureshield Security](https://sureshield.co.in/) | Security services company website |
+| [Nayan Wright (RE/MAX)](https://nayan-wright.remaxcare.com/) | Canada-based real estate platform |
+
+Built using **React + Tailwind CSS**, optimized for performance and scalability.
 
 ---
 
-### ⚡ Priority Assignment Calculator
-- Enterprise-style logic system (Adobe-like workflows)  
-- Weighted priority decision engine  
+### ⚡ Priority Assignment System
+
+- Rule-based priority engine  
+- Weighted decision logic  
+- Designed for enterprise workflow systems (Adobe-style use cases)  
 
 ---
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-negi-21b570218)
+## 💻 Tech Stack
+
+### 🚀 Core Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 
 ---
-
-# 💻 Tech Stack:
-
-### 🚀 Core
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 🌐 Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
 
-### ⚙️ Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+---
 
-### 🗄️ Database & Tools
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### ⚙️ Backend & APIs
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
+
+---
+
+### 🗄️ Database & Data Layer
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
+![IndexedDB](https://img.shields.io/badge/indexedDB-%230074C1.svg?style=flat-square&logo=databricks&logoColor=white)
+
+---
+
+### 📊 Data & Python Ecosystem
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🛠️ Tools & Dev Environment
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Cursor](https://img.shields.io/badge/cursor-%23000000.svg?style=flat-square)
+![Anaconda](https://img.shields.io/badge/anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=flat-square&logo=jupyter&logoColor=white)
+
+---
 
 ### ☁️ DevOps & Infra
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=rohit5612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=rohit5612&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=rohit5612&theme=tokyonight&hide_border=true&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=rohit5612&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=rohit5612&theme=tokyonight&hide_border=true)
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rohit5612&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 
-### ⚡ Builder Mindset
-> From navigating ships at sea to building scalable software systems — same discipline, different battlefield ⚓💻
+## ⚡ Closing Note
 
----
-
-[![](https://komarev.com/ghpvc/?username=rohit5612&color=blueviolet)](https://visitcount.itsvg.in)
+From navigating ships at sea to designing scalable systems —  
+same discipline, different domain.
