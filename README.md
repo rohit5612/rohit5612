@@ -92,11 +92,11 @@ Built using **React + Tailwind CSS**, optimized for performance and scalability.
 
 ---
 
-### ⚡ Priority Assignment System
+### ⚡ Priority Assessment System
 
 - Rule-based priority engine  
 - Weighted decision logic  
-- Designed for enterprise workflow systems (Adobe-style use cases)  
+- Designed for enterprise workflow systems (Ticketing system use cases[Jira complement])  
 
 ---
 
