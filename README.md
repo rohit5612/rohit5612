@@ -41,64 +41,67 @@ A production-grade ERP system designed for real-world business operations.
 
 ## 🧩 Products & Projects
 
+---
+
 ### 🏆 Tournament Manager Platform
+> Full-stack esports tournament system
 
-**Full-stack tournament management system**
+**👤 User Experience**
+- View tournaments, teams, players, prize pools  
+- Live standings, brackets & schedules  
+- Seamless registration + payments  
 
-**Client Side**
-- View tournaments, teams, players, prize pools, schedules  
-- Live standings and bracket visualization  
-- Registration system with payment integration  
-
-**Admin Side**
-- Configure tournament formats (single/double elimination, etc.)  
-- Manage teams, players, and registrations (CRM-style panel)  
-- Automated bracket generation & match control  
+**🛠️ Admin Control**
+- Configure formats (single/double elimination)  
+- Manage teams, players, registrations (CRM-style)  
+- Automated bracket generation  
 
 ---
 
 ### 🍽️ Nuvorn Dine
+> Smart restaurant reservation system
 
-**Restaurant reservation system with seat-level control**
-
-- Interactive seat map for each restaurant  
-- Users can book **exact table/seat positions**  
-- Built-in discount system for customer acquisition  
-- Helps restaurants optimize occupancy and conversions  
+**✨ Key Features**
+- Interactive **seat-level booking system**  
+- Reserve exact tables / positions  
+- Built-in **discount engine** for customer acquisition  
+- Optimized for restaurant occupancy & conversions  
 
 ---
 
 ### 🧾 Nuvorn Serve (POS System)
+> Complete business POS ecosystem
 
-**Complete POS ecosystem for businesses**
-
-- QR-based menu system  
-- Kitchen dashboard (order flow management)  
-- Billing & cashier interface  
+**⚙️ System Components**
+- QR-based digital menu  
+- Kitchen dashboard (live order flow)  
+- Billing / cashier interface  
 - Merchant admin panel  
-- User-facing ordering interface  
+- User ordering interface  
 
 ---
 
 ### 🌐 Production Websites (SPA)
 
-| Project | Description |
-|--------|------------|
-| [VR Power Equipments](https://vrpower.in/) | Telecom infrastructure company website |
-| [Sureshield Security](https://sureshield.co.in/) | Security services company website |
-| [Nayan Wright (RE/MAX)](https://nayan-wright.remaxcare.com/) | Canada-based real estate platform |
+| Project | Type |
+|--------|------|
+| [VR Power Equipments](https://vrpower.in/) | Telecom Infrastructure |
+| [Sureshield Security](https://sureshield.co.in/) | Security Services |
+| [Nayan Wright (RE/MAX)](https://nayan-wright.remaxcare.com/) | Real Estate Platform |
 
-Built using **React + Tailwind CSS**, optimized for performance and scalability.
+> Built with React + Tailwind CSS | Optimized for performance & modern UI
 
 ---
 
 ### ⚡ Priority Assessment System
+> Enterprise workflow optimization engine
 
-- Rule-based priority engine  
-- Weighted decision logic  
-- Designed for enterprise workflow systems (Ticketing system use cases[Jira complement])  
+- Weighted priority logic  
+- Rule-based decision system (Ticketing system use cases [Jira complement] )
+- Designed for complex enterprise workflows  
 
 ---
+
 
 ## 💻 Tech Stack
 
